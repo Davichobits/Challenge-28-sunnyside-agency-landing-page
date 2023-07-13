@@ -23,7 +23,8 @@ export default {
         'Fraunces': ['Fraunces', 'serif'],
       },
       screens:{
-        'tablet': '700px'
+        'tablet': '700px',
+        'desktop': '1440px'
       }
     },
   },
