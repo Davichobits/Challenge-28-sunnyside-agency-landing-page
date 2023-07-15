@@ -9,7 +9,6 @@ export const Nav = () => {
     setMenuClicked((state)=>!state)
   }
   
-  console.log(menuClicked)
   return (
     <nav className='font-Barlow'>
       <ul className={`${menuClicked ? 'flex' : 'hidden' } bg-white w-[329px] h-[305px] absolute top-[106px] left-0 right-0 mx-auto z-10 flex-col place-content-between py-[39px] items-center text-Dark-grayish-blue text-xl 
