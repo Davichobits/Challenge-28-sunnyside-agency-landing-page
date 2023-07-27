@@ -2,7 +2,7 @@
 
 Ese es un reto frontend hecho en el canal de YouTube [CodingTube](https://www.youtube.com/watch?v=roEPF7O8iOo&list=PLJubkp8BnTJswvyI9GZN9AEb87D1PSKKL&index=38).
 
-## Reto 27 - News homepage
+## Reto 28 - Sunnyside agency landing page
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./src/assets/design/desktop-preview.jpg)
 
